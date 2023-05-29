@@ -10,6 +10,6 @@ Este proyecto consiste en la creación de un modelo de Machine Learning para pre
 En el archivo main se encuentra el código utilizado en el proyecto.
 En la carpeta data se encuentran los archivos utilizados para el entrenamiento y el testeo del modelo.
 
-A continuación dejo un enlace a la presentación del poryecto:
+A continuación dejo un enlace a la presentación del proyecto:
 
-https://www.canva.com/design/DAFkScp_GBI/a-uYJy9y9httqJsQuI1JrA/edit?utm_content=DAFkScp_GBI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://www.canva.com/design/DAFkScp_GBI/F0GwAdyGKt-gHFZEjbiQGw/view?utm_content=DAFkScp_GBI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
